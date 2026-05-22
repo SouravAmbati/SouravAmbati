@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">✨ Full Stack Developer specializing in scalable microservices-based web applications<br>🛠️ Tech Stack: MERN (MongoDB, Express, React, Node.js)<br>🐳 Containerization: Docker<br>🗄️ Databases: PostgreSQL, MySQL<br>⚡ Caching: Redis<br>📩 Message Broker: RabbitMQ<br>🎨 UI/UX Design: Strong grasp of UI/UX concepts and proficient in Figma for creating user-friendly, appealing interfaces<br><br>I combine backend expertise with design skills to build robust, efficient, and user-centric digital solutions.</p>
+<p align="left">✨ Full Stack Developer specializing in scalable  applications<br>🛠️ Tech Stack: Express, React, Node.js Laravel Vue.js<br>🐳 Containerization: Docker<br>🗄️ Databases: PostgreSQL,MongoDB, MySQL<br>⚡ Caching: Redis,Pinia<br>🎨 UI/UX Design: Strong grasp of UI/UX concepts and proficient in Figma for creating user-friendly, appealing interfaces<br>I combine backend expertise with design skills to build robust, efficient, and user-centric digital solutions.</p>
 
 ###
 
